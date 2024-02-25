@@ -18,7 +18,7 @@ Feb 24\
 
 Potentially weird interiors. Probably needs basement suite removal
 ____
-## Semlin Ave
+## 1143 Semlin Ave
 Feb 22\
 https://www.rew.ca/properties/5635456/1143-semlin-drive-vancouver-bc
 
@@ -29,7 +29,7 @@ Probably needs basement suite removed.
 Potentially sketchy neighbourhood -- but this one looks promising. Elizabeth to advise.
 ____
 ## 5930 Quebec
-Feb 22
+Feb 22\
 https://www.rew.ca/properties/5633731/5930-quebec-street-vancouver-bc
 
 https://maps.app.goo.gl/g8fYwvMJeyae6RPe9
