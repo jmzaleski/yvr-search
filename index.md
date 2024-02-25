@@ -1,5 +1,8 @@
 # e-z search in vancouver
 
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 ## introduction
 
 is github markup an efficient way of saving aside listings?
