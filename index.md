@@ -1,12 +1,11 @@
 # e-z search in vancouver
 
+## introduction
+
 is github markup an efficient way of saving aside listings?
 Let's play around a bit and see.
 
-$2,988,000Est. \
-3056 W 14th Avenue\
-Vancouver, BC, V6K 2X8\
-Kitsilano
+## 3056 W 14th Avenue $2,988M
 
 <https://www.rew.ca/properties/5643901/3056-w-14th-avenue-vancouver-bc>
 
