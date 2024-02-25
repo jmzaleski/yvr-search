@@ -6,11 +6,11 @@ Let's play around a bit and see.
 $2,988,000Est. \
 3056 W 14th Avenue\
 Vancouver, BC, V6K 2X8\
-Kitsilano\
+Kitsilano
 
-https://www.rew.ca/properties/5643901/3056-w-14th-avenue-vancouver-bc
+<https://www.rew.ca/properties/5643901/3056-w-14th-avenue-vancouver-bc>
 
-https://maps.app.goo.gl/LEY2fQxnX4sBTF4T7
+<https://maps.app.goo.gl/LEY2fQxnX4sBTF4T7>
 
 Criteria
 
