@@ -11,10 +11,22 @@ Note this file on web at https://github.com/jmzaleski/yvr-search/blob/main/READM
 ___
 
 ## 3056 W 14th Avenue $2,988M
-Feb 24
+Feb 24\
 <https://www.rew.ca/properties/5643901/3056-w-14th-avenue-vancouver-bc>
 
 <https://maps.app.goo.gl/LEY2fQxnX4sBTF4T7>
+
+Potentially weird interiors. Probably needs basement suite removal
+____
+Feb 24\
+## Semlin Ave
+https://www.rew.ca/properties/5635456/1143-semlin-drive-vancouver-bc
+
+https://maps.app.goo.gl/g8fYwvMJeyae6RPe9
+
+Probably needs basement suite removed.
+
+Potentially sketchy neighbourhood -- but this one looks promising. Elizabeth to advise.
 ____
 ## 5930 Quebec
 Feb 22
