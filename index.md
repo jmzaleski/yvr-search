@@ -3,7 +3,16 @@
 is github markup an efficient way of saving aside listings?
 Let's play around a bit and see.
 
-Start with criteria
+$2,988,000Est. \
+3056 W 14th Avenue\
+Vancouver, BC, V6K 2X8\
+Kitsilano\
+
+https://www.rew.ca/properties/5643901/3056-w-14th-avenue-vancouver-bc
+
+https://maps.app.goo.gl/LEY2fQxnX4sBTF4T7
+
+Criteria
 
 1. Location: We talked about the south boundary of our search area should be roughly where the commercialization ends on Main. Call it 33rd Ave. (btw, i just realized that in Golden streets run east-west whereas in vancouver it's avenues. sorry for any historical confusion on this point). BTW, we're pretty comfortable with hippy dippy types so long as their dogs don't give Rufus fleas.
 
