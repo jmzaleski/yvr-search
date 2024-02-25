@@ -8,14 +8,19 @@
 ## introduction
 this file on web at https://github.com/jmzaleski/yvr-search/blob/main/README.md
 
-Let's play around a bit and see.
 
 ## 3056 W 14th Avenue $2,988M
-
-be nice to open these links in another tab..
+Feb 24
 <https://www.rew.ca/properties/5643901/3056-w-14th-avenue-vancouver-bc>
 
 <https://maps.app.goo.gl/LEY2fQxnX4sBTF4T7>
+
+
+## 5930 Quebec
+Feb 22
+https://www.rew.ca/properties/5633731/5930-quebec-street-vancouver-bc
+
+https://maps.app.goo.gl/g8fYwvMJeyae6RPe9
 
 Criteria
 
