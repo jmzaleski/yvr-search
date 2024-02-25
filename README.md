@@ -18,8 +18,8 @@ Feb 24\
 
 Potentially weird interiors. Probably needs basement suite removal
 ____
-Feb 24\
 ## Semlin Ave
+Feb 22\
 https://www.rew.ca/properties/5635456/1143-semlin-drive-vancouver-bc
 
 https://maps.app.goo.gl/g8fYwvMJeyae6RPe9
