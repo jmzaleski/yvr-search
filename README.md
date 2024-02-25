@@ -1,4 +1,4 @@
-# yvr-search experiment to see if markup helps with sharing
+# yvr-search 
 
 <!-- START doctoc -->
 <!-- END doctoc -->
@@ -6,7 +6,8 @@
 # e-z search in vancouver
 
 ## introduction
-this file on web at https://github.com/jmzaleski/yvr-search/blob/main/README.md
+This is an experiment to see if markup helps with sharing\
+Note this file on web at https://github.com/jmzaleski/yvr-search/blob/main/README.md
 ___
 
 ## 3056 W 14th Avenue $2,988M
